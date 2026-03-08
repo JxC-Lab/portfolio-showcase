@@ -59,7 +59,8 @@ const ProjectCard = ({ project, index }: { project: Project; index: number }) =>
         </span>
       ))}
     </div>
-  </motion.div>
+    </motion.div>
+  </Link>
 );
 
 const FeaturedProjects = () => {
