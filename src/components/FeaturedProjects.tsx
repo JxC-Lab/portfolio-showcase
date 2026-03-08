@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import { projects, type Project } from "@/data/projects";
 import { ArrowRight } from "lucide-react";
 
