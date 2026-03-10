@@ -61,10 +61,10 @@ const Hero = () => {
           <a href="mailto:jaad.chokr@outlook.com" className="text-muted-foreground hover:text-primary transition-colors">
             <Mail className="w-5 h-5" />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+          <a href="https://www.linkedin.com/in/jaad-chokr" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
             <Linkedin className="w-5 h-5" />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+          <a href="https://github.com/JxC-Lab" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
             <Github className="w-5 h-5" />
           </a>
         </motion.div>
